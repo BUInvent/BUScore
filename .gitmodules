@@ -1,0 +1,3 @@
+[submodule "BUHover"]
+	path = BUHover
+	url = https://github.com/BUInvent/BUHover.git
