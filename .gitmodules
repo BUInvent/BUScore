@@ -1,3 +1,6 @@
 [submodule "BUHover"]
 	path = BUHover
 	url = https://github.com/BUInvent/BUHover.git
+[submodule "BUSportsApp"]
+	path = BUSportsApp
+	url = https://github.com/BUInvent/BUSportsApp.git
