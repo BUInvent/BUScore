@@ -4,6 +4,3 @@
 [submodule "BUSportsApp"]
 	path = BUSportsApp
 	url = https://github.com/BUInvent/BUSportsApp.git
-[submodule "BUScoreApp"]
-	path = BUScoreApp
-	url = https://github.com/BUInvent/BUScoreApp.git
